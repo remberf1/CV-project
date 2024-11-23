@@ -1,6 +1,16 @@
-{
-    color: blue;
+
+
+.blue-text{
+    color: #3c89d1;
 }
-h1{
-    color: brown;
+
+.green-text{
+    color: #07cb07;
+}
+
+#box-border{
+    border: 3px solid #000000;
+    padding: 60px;
+    width: 70%;
+    height: 70%;
 }
